@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="btn_text_steamer">Spotify Streamer</string>
+    <string name="btn_text_duo">Super Duo</string>
+    <string name="btn_text_build_bigger">Build It Bigger</string>
+    <string name="btn_text_reader">XYZ Reader</string>
+    <string name="btn_text_capstone">Capstone</string>
+
+    <string name="toast_text_steamer">This button will launch my Spotify Streamer App!</string>
+    <string name="toast_text_duo">This button will launch my Super Duo App!</string>
+    <string name="toast_text_build_bigger">This button will launch my Build It Bigger App!</string>
+    <string name="toast_text_reader">This button will launch my XYZ Reader App!</string>
+    <string name="toast_text_capstone">This button will launch my Capstone App!</string>
+    <string name="main_text">My Nanodegree App!</string>
+
+</resources>
